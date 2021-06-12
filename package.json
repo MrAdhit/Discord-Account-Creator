@@ -1,0 +1,19 @@
+{
+  "name": "Discord-Account-Creator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "metacharacter": "^1.0.0",
+    "puppeteer": "^10.0.0",
+    "random.org-javascript": "^1.0.4",
+    "terminal-kit": "^2.1.5"
+  }
+}
